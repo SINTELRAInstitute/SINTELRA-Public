@@ -14,22 +14,17 @@ Content may include:
 - Selected Research Notes
 - Selected analytical publications
 
-## Publication Control
+## Publication Principles
 
-Material may be published only after it has been reviewed for public release.
+Material published through this repository should:
 
-Public-release review should verify that the material:
-
-- is appropriate for public access;
-- does not disclose restricted or internal operating material;
-- does not expose protected DGCP™ methodology or evidence architecture;
-- clearly distinguishes evidence, analysis, uncertainty, and interpretation;
-- uses traceable sources where required;
-- follows applicable SINTELRA publication standards.
+- be appropriate for public access;
+- remain evidence-grounded and proportionate to available evidence;
+- distinguish evidence, analysis, uncertainty, and interpretation;
+- use traceable sources where required;
+- comply with applicable SINTELRA publication standards.
 
 ## Evidence Discipline
-
-Public material should be evidence-grounded and proportionate to the available evidence.
 
 SINTELRA publications should avoid:
 
@@ -55,18 +50,9 @@ Translated, localized, duplicate, or parenthetical source-name labels should not
 
 ## Public Boundary
 
-This repository does not represent the complete SINTELRA research or intelligence environment.
+This repository contains only material designated for public release.
 
-Public publication does not require disclosure of:
-
-- internal research files;
-- source collections;
-- working notes;
-- internal synthesis;
-- operating intelligence;
-- restricted assessments;
-- proprietary methods;
-- DGCP™ Core evidence, standards, or system architecture.
+Publication of selected outputs does not imply disclosure of underlying research materials, internal documentation, protected methodology, or non-public systems and records.
 
 ## Change Control
 
